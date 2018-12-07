@@ -22,11 +22,11 @@
   "author": "Vincent Voyer <vincent@zeroload.net>",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.5.0",
     "commander": "^2.9.0",
     "cross-spawn": "^6.0.0",
     "debug": "^3.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.5",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "progress": "2.0.0",
